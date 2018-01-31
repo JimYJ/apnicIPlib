@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/JimYJ/apnicIPlib.svg?branch=master)](https://travis-ci.org/JimYJ/apnicIPlib)
 [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/ugorji/go/master/LICENSE)
 
 # apnicIPlib
