@@ -63,5 +63,5 @@ class CheckIP:
             i += 1         
            
 if __name__ == '__main__':
-    init = CheckIP()
+    CheckIP()
         
