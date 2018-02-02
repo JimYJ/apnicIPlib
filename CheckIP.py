@@ -16,7 +16,7 @@ class CheckIP:
     writefile = WriteFile()
     MaxCount = 0
     
-    def __call__(self): 
+    def __init__(self):
         self.CheckIP()
         
         
@@ -60,9 +60,8 @@ class CheckIP:
             self.writefile.append(filename, temp)
 			#如果需要写入数据库，可在这里插入
             iparr[3]="0"
-            i += 1
-            
+            i += 1         
            
-cI = CheckIP()
-cI()
+if __name__ == '__main__':
+    init = CheckIP()
         
